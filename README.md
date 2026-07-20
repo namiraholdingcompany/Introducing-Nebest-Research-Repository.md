@@ -198,6 +198,23 @@ We welcome contributions from researchers, writers, and creators.
 
 *The ultimate contribution of this research is a framework for a “political-ethical critique of algorithmic art”—a critique in which the boundaries between aesthetics, politics, and ethics are permanently dissolved.*
 
+---
+
+### 18. Post-Silence Aesthetics: Revisiting Identity in the Art of the Algorithmic Age
+
+[![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.21462261.svg)](https://doi.org/https://doi.org/10.5281/zenodo.21462261)
+
+*the article argues that the challenge of the algorithmic age is not to resist technological change but to reclaim intentionality, preserve diversity, and forge new modes of cultural expression within post-human creative landscapes.*
+
+---
+
+### 19. Gems and Identity: Redefining Jewellery as Cultural Heritage in the Modern Age
+
+[![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.21462482.svg)](https://doi.org/https://doi.org/10.5281/zenodo.21462482)
+
+*The article further explores contemporary shifts in jewellery practice, including ethical sourcing, technological innovation, and digital representation, positioning jewellery as an evolving medium responsive to broader socio-cultural transformations.*
+
+
 
 
 
