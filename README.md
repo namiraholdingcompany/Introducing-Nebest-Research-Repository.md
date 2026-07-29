@@ -19,21 +19,21 @@ Nebešt-Research/
 
 ## What You’ll Find Here
 
-- **Research Papers** — Peer-reviewed articles on art, architecture, and cultural studies.
-- **Datasets** — Supporting data and visualizations.
-- **Documentation** — Project notes, references, and curatorial archives.
-- **Collaboration** — Open to contributions, suggestions, and discussions.
+- **Research Papers** — Peer-reviewed articles on art, architecture, cultural heritage, and interdisciplinary humanities.
+- **Curatorial Archives** — Selected documentation, references, and project notes.
+- **Collaboration** — Open to contributions, suggestions, and scholarly discussions.
 
 ---
 
 ## How to Contribute
 
-We welcome contributions from researchers, writers, and creators.
+We welcome contributions from researchers, writers, and creators who share our passion for art, culture, and knowledge.
 
-1. Fork the repository
-2. Create a new branch (`feature/your-idea`)
-3. Submit a Pull Request
-4. Start a discussion via Issues
+- **Share your research** — Propose a topic or submit a manuscript.
+- **Suggest an idea** — Open a discussion via Issues.
+- **Collaborate** — Reach out to us for joint projects or editorial contributions.
+
+**Contact:** [nebestfoundation@namiraholdingcompany.com]
 
 ---
 
