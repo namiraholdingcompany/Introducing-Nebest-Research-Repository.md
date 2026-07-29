@@ -33,7 +33,7 @@ We welcome contributions from researchers, writers, and creators who share our p
 - **Suggest an idea** — Open a discussion via Issues.
 - **Collaborate** — Reach out to us for joint projects or editorial contributions.
 
-**Contact:** [nebestfoundation@namiraholdingcompany.com]
+**Contact:** [![Email](https://img.shields.io/badge/Email-nebestfoundation@namiraholdingcompany.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:nebestfoundation@namiraholdingcompany.com)
 
 ---
 
