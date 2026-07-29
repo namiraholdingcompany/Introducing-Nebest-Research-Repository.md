@@ -1,5 +1,5 @@
 # Introducing-Nebest-Research-Repository.md
-Introducing the Nebešt Research Repository — an open space for sharing research, manuscripts, and cultural documentation.
+Introducing the Nebešt Research Repository | an open space for sharing research, manuscripts, and cultural documentation.
 
 ---
 
@@ -46,7 +46,7 @@ We welcome contributions from researchers, writers, and creators.
 
 ## License
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ---
 
