@@ -13,13 +13,6 @@ We believe knowledge should be accessible, transparent, and collaborative.
 
 ## Repository Structure
 Nebešt-Research/
-├── papers/
-│ ├── 2026-01-article1.md
-│ └── 2026-02-article2.md
-├── datasets/
-│ └── cultural-heritage-data.csv
-├── docs/
-│ └── project-overview.md
 └── README.md
 
 ---
