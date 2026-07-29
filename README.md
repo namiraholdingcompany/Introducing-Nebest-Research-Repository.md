@@ -74,7 +74,7 @@ We welcome contributions from researchers, writers, and creators.
 
 ### 2. From the Sasanian Peacock to the Umayyad Shamsa: An Inquiry into the Visual Wisdom of the Dome of the Rock within the Context of Ancient Iranian Art
 
-[![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.21442508.svg)](https://doi.org/https://doi.org/10.5281/zenodo.21442508)
+[![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.21569014.svg)](https://doi.org/https://doi.org/10.5281/zenodo.21569014)
 
 *The ultimate contribution of this study is the redefinition of the Dome of the Rock as a link between pre-Islamic and Islamic Iranian art—a link in which ancient wisdom continues to thrive within the body of a sacred monument.*
 
@@ -90,7 +90,7 @@ We welcome contributions from researchers, writers, and creators.
 
 ### 4. From Stone to Command: An Inquiry into the Visual System and Function of Achaemenid Inscriptions in the Representation of Power and Culture
 
-[![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.21441487.svg)](https://doi.org/https://doi.org/10.5281/zenodo.21441487)
+[![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.20922446.svg)](https://doi.org/https://doi.org/10.5281/zenodo.20922446)
 
 *By introducing various types of inscriptions—from the Persepolis reliefs to the Behistun inscription—this article demonstrates that Achaemenid epigraphy serves as a bridge between art and politics; a bridge in which stone transforms into narrative, and narrative into the enduring identity of a civilization.*
 
@@ -98,7 +98,7 @@ We welcome contributions from researchers, writers, and creators.
 
 ### 5. A Semiotic Analysis of "Loo" Maqam Songs in the Music of Bakhtiari Nomads: A Peircean-Saussurean Approach
 
-[![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.21435034.svg)](https://doi.org/https://doi.org/10.5281/zenodo.21435034)
+[![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.20946061.svg)](https://doi.org/https://doi.org/10.5281/zenodo.20946061)
 
 *This study emphasizes that the Loo maqam is not merely a reflection, but a constructor of meaning in the nomadic lifeworld.*
 
@@ -106,7 +106,7 @@ We welcome contributions from researchers, writers, and creators.
 
 ### 6. From the Weaver's Hand to the Loop of Code: Rethinking Materiality, Technological Ethics, and Artistic Agency in 21st-Century Art
 
-[![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.21434947.svg)](https://doi.org/https://doi.org/10.5281/zenodo.21434947)
+[![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.20968633.svg)](https://doi.org/https://doi.org/10.5281/zenodo.20968633)
 
 *This research argues that the return to material and hand-making processes, in dialectical interaction with code, gives rise to a form of critical materiality.*
 
@@ -130,7 +130,7 @@ We welcome contributions from researchers, writers, and creators.
 
 ### 9. Carving Power, Sealing Eternity: A Comparative Study of Gemstone Engraving in Ancient Egypt and Mesopotamia
 
-[![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.21430328.svg)](https://doi.org/https://doi.org/10.5281/zenodo.21430328)
+[![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.21430327.svg)](https://doi.org/10.5281/zenodo.21430327)
 
 *This comparative approach offers new insights into the relationship between material culture, power, and belief in the ancient world, and contributes to the fields of art history, cultural studies, and ancient Near Eastern studies.*
 
@@ -138,7 +138,7 @@ We welcome contributions from researchers, writers, and creators.
 
 ### 10. The Symbolism of Gemstones in Persian Culture
 
-[![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.21430912.svg)](https://doi.org/https://doi.org/10.5281/zenodo.21430912)
+[![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.21420232.svg)](https://doi.org/https://doi.org/10.5281/zenodo.21420232)
 
 *This study argues that the symbolic language of gemstones in Persian culture reveals a worldview in which the material and the spiritual, the earthly and the celestial, were deeply intertwined, offering a unique perspective on the ways in which objects carry meaning across time and space.*
 
@@ -170,7 +170,7 @@ We welcome contributions from researchers, writers, and creators.
 
 ### 14. The Role of Composition as a Visual Language in Safavid Painting
 
-[![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.20982222.svg)](https://doi.org/https://doi.org/10.5281/zenodo.20982222)
+[![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.20982221.svg)](https://doi.org/https://doi.org/10.5281/zenodo.20982221)
 
 *This study concludes that Safavid compositions serve as a bridge between the material and spiritual worlds, conveying concepts of divine love, unity, and the reflection of human emotions through the symbolic use of nature.*
 
@@ -178,7 +178,7 @@ We welcome contributions from researchers, writers, and creators.
 
 ### 15. The Influence of Political and Religious Power Structure Transformations on the Art and Architecture of Middle Elam
 
-[![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.20997434.svg)](https://doi.org/https://doi.org/10.5281/zenodo.20997434)
+[![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.20997433.svg)](https://doi.org/https://doi.org/10.5281/zenodo.20997433)
 
 *This article emphasizes that a true understanding of Elamite civilization can only be achieved by examining the intricate interplay of politics, religion, and art—an interplay that, in the soil of southern Iran, has forever inscribed upon stone and clay a narrative of the connection between heaven and earth.*
 
@@ -186,7 +186,7 @@ We welcome contributions from researchers, writers, and creators.
 
 ### 16. From the Geometry of the Kufic Script to the Mu'aqqali Script: An Inquiry into the Visual System of the Bana'i Script in Iranian Islamic Architecture
 
-[![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.20998702.svg)](https://doi.org/https://doi.org/10.5281/zenodo.20998702)
+[![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.20928661.svg)](https://doi.org/https://doi.org/10.5281/zenodo.20928661)
 
 *This article demonstrates that Mo’aqqali serves as a bridge between writing and architecture a bridge in which the word transforms into form, and form into meaning.*
 
@@ -202,7 +202,7 @@ We welcome contributions from researchers, writers, and creators.
 
 ### 18. Post-Silence Aesthetics: Revisiting Identity in the Art of the Algorithmic Age
 
-[![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.21462261.svg)](https://doi.org/https://doi.org/10.5281/zenodo.21462261)
+[![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.21462260.svg)](https://doi.org/https://doi.org/10.5281/zenodo.21462260)
 
 *the article argues that the challenge of the algorithmic age is not to resist technological change but to reclaim intentionality, preserve diversity, and forge new modes of cultural expression within post-human creative landscapes.*
 
@@ -210,7 +210,7 @@ We welcome contributions from researchers, writers, and creators.
 
 ### 19. Gems and Identity: Redefining Jewellery as Cultural Heritage in the Modern Age
 
-[![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.21462482.svg)](https://doi.org/https://doi.org/10.5281/zenodo.21462482)
+[![DOI](https://zenodo.org/badge/DOI/https://https://doi.org/10.5281/zenodo.21455657.svg)](https://doi.org/https://doi.org/10.5281/zenodo.21455657)
 
 *The article further explores contemporary shifts in jewellery practice, including ethical sourcing, technological innovation, and digital representation, positioning jewellery as an evolving medium responsive to broader socio-cultural transformations.*
 
