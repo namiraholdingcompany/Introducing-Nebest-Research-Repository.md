@@ -209,7 +209,13 @@ We welcome contributions from researchers, writers, and creators who share our p
 
 *The article further explores contemporary shifts in jewellery practice, including ethical sourcing, technological innovation, and digital representation, positioning jewellery as an evolving medium responsive to broader socio-cultural transformations.*
 
+---
 
+### 20. Jewellery and Material Culture: Weaving Identity Through Textiles, Architecture, and Ritual Objects
+
+[![DOI](https://img.shields.io/badge/DOI-https://doi.org/https://doi.org/10.5281/zenodo.21473353-blue.svg)](https://doi.org/https://doi.org/https://doi.org/10.5281/zenodo.21473353)
+
+*The article further proposes that understanding these interconnections enriches both heritage studies and contemporary design practice, offering new perspectives for curatorial and educational approaches to material culture.*
 
 
 
